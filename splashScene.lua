@@ -41,7 +41,7 @@ function scene:show( event )
         background:setFillColor( 0,1,1 )
         sceneGroup:insert( background )
 
-        local title = display.newText("Splash Scene", display.contentWidth / 2, display.contentHeight / 2, native.systemFont, 48)
+        local title = display.newText("The ball to touch!", display.contentWidth / 2, display.contentHeight / 2, native.systemFont, 88)
         title:setFillColor( 0,0,0 )
         sceneGroup:insert( title )
     

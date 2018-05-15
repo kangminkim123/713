@@ -97,7 +97,7 @@ function scene:destroy( event )
     -- Code here runs prior to the removal of scene's view
  
 end
- 
+
  
 -- -----------------------------------------------------------------------------------
 -- Scene event function listeners
